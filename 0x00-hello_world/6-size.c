@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
-*main- prints the size of various data types using sizeof()
+*main- prints the size of various data types using sizeof() function
 *Return:0(sucess)
 */
 
